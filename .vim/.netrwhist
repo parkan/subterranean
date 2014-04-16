@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/mnt/web/HYPE/hype_tools.ark/Hype/Transform'
+let g:netrw_dirhist_2='/mnt/web/HYPE/hype_tools.ark/Hype'
+let g:netrw_dirhist_3='/mnt/web/HYPE/htdocs.ark/views/zeitgeist/2012'
+let g:netrw_dirhist_4='/mnt/web/HYPE/htdocs.anthony/.git/modules'
+let g:netrw_dirhist_5='/mnt/web/HYPE/htdocs.anthony/.git/modules/fatfree'
