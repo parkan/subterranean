@@ -4,8 +4,8 @@
 [submodule "home/.vim/bundle/command-t"]
 	path = home/.vim/bundle/command-t
 	url = git://git.wincent.com/command-t.git
-[submodule "vim-fugitive"]
-	path = vim-fugitive
+[submodule "home/.vim/bundle/vim-fugitive"]
+	path = home/.vim/bundle/vim-fugitive
 	url = https://github.com/tpope/vim-fugitive.git
 [submodule "home/.vim/bundle/vim-colors-solarized"]
 	path = home/.vim/bundle/vim-colors-solarized
