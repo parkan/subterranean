@@ -100,16 +100,6 @@ lprompt '[]' $BR_BRIGHT_BLACK $PR_WHITE
 rprompt '()' $BR_BRIGHT_BLACK $PR_WHITE
 
 alias mysql='mysql --i-am-a-dummy'
-#alias git='~/bin/hub'
-#
-
-# perlbrew (mine)
-#source ~/perl5/perlbrew/etc/bashrc
-# perlbrew (system)
-export PERLBREW_ROOT=/opt/perlbrew
-source /opt/perlbrew/etc/bashrc
-
-function git(){/home/ark/bin/hub "$@"}
 
 # fix path
 export PATH=$HOME/bin:$PATH
