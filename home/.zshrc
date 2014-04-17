@@ -29,6 +29,7 @@ setopt correctall
 # prevent autocorrect sudo vim -> sudo .vim, etc
 alias sudo='nocorrect sudo'
 alias git='nocorrect git'
+alias ./fs='nocorrect ./fs'
 alias ack='ag'
  
 autoload -Uz vcs_info
